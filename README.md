@@ -1,6 +1,7 @@
 # Mariana Xavier Quispe
 
 **`Desenvolvedora Backend em formação`**  
+
 Estudante de Análise e Desenvolvimento de Sistemas pela FIAP, apaixonada por tecnologia, banco de dados e desenvolvimento backend.  
 Atualmente focada em Java, MySQL e projetos práticos para o portfólio. Buscando minha primeira oportunidade na área de tecnologia para aplicar meus estudos e continuar aprendendo com o mercado real.
 
@@ -104,4 +105,5 @@ Essas são as linguagens e ferramentas que estou estudando ou já utilizei em pr
 <br/>
 
 
-![Snake Animation](https://github.com/Marixavq/Marixavq/blob/output/github/contribution-grid-snake.svg)
+![github-snake](https://raw.githubusercontent.com/Marixavq/Marixavq/output/github-contribution-grid-snake.svg)
+
