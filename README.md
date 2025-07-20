@@ -103,6 +103,7 @@ Essas são as linguagens e ferramentas que estou estudando ou já utilizei em pr
 
 </p>
 <br/>
+<br/>
 
+![GitHub Snake](https://raw.githubusercontent.com/Marixavq/Marixavq/output/github-contribution-grid-snake.svg)
 
-![github-snake](https://raw.githubusercontent.com/Marixavq/Marixavq/output/github-contribution-grid-snake.svg)
