@@ -70,7 +70,7 @@ Essas são as linguagens e ferramentas que estou estudando ou já utilizei em pr
     style="padding-right: 10px;" 
     src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original.svg" 
 />
-
+<!--
 <img 
     align="left" 
     alt="Git" 
@@ -79,7 +79,7 @@ Essas são as linguagens e ferramentas que estou estudando ou já utilizei em pr
     style="padding-right: 10px;" 
     src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/git/git-original.svg" 
 />
-
+-->
 <br/>
 <br/>
 
@@ -94,12 +94,15 @@ Essas são as linguagens e ferramentas que estou estudando ou já utilizei em pr
     src="https://github-readme-stats.vercel.app/api?username=Marixavq&show_icons=true&theme=tokyonight&include_all_commits=true&locale=pt-br" 
   />
 <br/>
+
+ <!--
 <img 
       align="left" 
       alt="GitHub Stats" 
       height="200" 
       src="https://github-readme-stats.vercel.app/api/top-langs/?username=Marixavq&theme=tokyonight&layout=compact&custom_title=Tecnologias&langs_count=9" 
   />
+  -->
 
 </p>
 <br/>
