@@ -1,6 +1,6 @@
 # Mariana Xavier Quispe
 
-**`Desenvolvedora Backend em formação`**  
+**`Análise e Desenvolvimento de Sistema`**  
 
 Estudante de Análise e Desenvolvimento de Sistemas pela FIAP, apaixonada por tecnologia, banco de dados e desenvolvimento backend.  
 Atualmente focada em Java, MySQL e projetos práticos para o portfólio. Buscando minha primeira oportunidade na área de tecnologia para aplicar meus estudos e continuar aprendendo com o mercado real.
