@@ -70,16 +70,7 @@ Essas são as linguagens e ferramentas que estou estudando ou já utilizei em pr
     style="padding-right: 10px;" 
     src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original.svg" 
 />
-<!--
-<img 
-    align="left" 
-    alt="Git" 
-    title="Git"
-    width="30px" 
-    style="padding-right: 10px;" 
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/git/git-original.svg" 
-/>
--->
+
 <br/>
 <br/>
 
@@ -95,14 +86,15 @@ Essas são as linguagens e ferramentas que estou estudando ou já utilizei em pr
   />
 <br/>
 
- <!--
-<img 
-      align="left" 
-      alt="GitHub Stats" 
-      height="200" 
-      src="https://github-readme-stats.vercel.app/api/top-langs/?username=Marixavq&theme=tokyonight&layout=compact&custom_title=Tecnologias&langs_count=9" 
-  />
-  -->
+<div>
+  <img style="100%" src="https://capsule-render.vercel.app/api?type=waving&height=100&section=header&reversal=false&fontSize=70&fontColor=FFFFFF&fontAlign=50&fontAlignY=50&stroke=-&descSize=20&descAlign=50&descAlignY=50&theme=cobalt"  />
+</div>
+
+###
+
+<img src="https://raw.githubusercontent.com/Marixavq/Marixavq/output/snake.svg" alt="Snake animation" />
+
+###
 
 </p>
 <br/>
