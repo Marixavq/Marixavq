@@ -24,6 +24,6 @@ HTML · CSS · React · Java · PHP · MySQL
 
 ---
 
-<!-- <div align="left">
+<div align="left">
   <img width="500" src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=marixavq&theme=maroongold"/>
-</div> -->
+</div>
